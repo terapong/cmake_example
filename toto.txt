@@ -14,4 +14,4 @@
   
   git remote set-url origin https://<token>@github.com/<username>/<repo>
   
-  git remote set-url origin https://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@github.com/terapong/tutorials_w
+  git remote set-url origin https://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@github.com/terapong/cmake_example
